@@ -23,8 +23,8 @@ chmod +x install.sh
 
 Choose:
 
-- `1` — Install
-- `2` — Uninstall
+- `1` - Install
+- `2` - Uninstall
 
 ## Setup
 
